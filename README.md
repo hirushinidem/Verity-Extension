@@ -72,8 +72,4 @@ Project Verity is designed to detect fake images, clickbait, political misinform
     fastapi dev main.py
     ```
 
-## 4. Others
-- Contact: Tharindu Lakshan
----
 
-Feel free to modify this template to better fit your project's specifics and structure!
