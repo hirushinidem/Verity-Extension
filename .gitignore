@@ -1,0 +1,4 @@
+verity-api/virtual
+verity-api/ml_models/deepfake _srilankan.h5
+verity-api/ml_models/F4_srilanka_context_model.h5
+verity-api/ml_models/verity_function3_retrained.h5

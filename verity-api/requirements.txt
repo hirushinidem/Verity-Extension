@@ -1,0 +1,8 @@
+fastapi[standard]
+requests
+pillow
+tensorflow==2.17.0
+# tensorflow==2.15.1
+spacy==3.7.6
+joblib==1.4.2
+scikit-learn==1.5.1
