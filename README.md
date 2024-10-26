@@ -26,5 +26,6 @@ Project Verity is designed to detect fake images, clickbait, political misinform
     ```bash
     fastapi dev main.py
     ```
+![image](https://github.com/user-attachments/assets/bda67693-cd65-4be7-b43f-dba101cc1422)
 
 
