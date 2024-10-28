@@ -1,6 +1,11 @@
-# Project Verity
+# Verity: Misinformation Detection Extension
 
-Project Verity is designed to detect fake images, clickbait, political misinformation, and bot activity.
+Verity is a browser extension that helps users identify misleading content on social media platforms. The system detects four types of deceptive content:
+
+- Deepfake Images
+- Social Media Bots
+- Political Misinformation
+- Clickbait Content
 
 ##  How to Stup
 
